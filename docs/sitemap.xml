@@ -1,0 +1,370 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+  <url>
+    <loc>https://resend.com/docs/api-reference/api-keys/create-api-key</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/api-keys/delete-api-key</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/api-keys/list-api-keys</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/audiences/create-audience</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/audiences/delete-audience</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/audiences/get-audience</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/audiences/list-audiences</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/contacts/create-contact</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/contacts/delete-contact</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/contacts/get-contact</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/contacts/list-contacts</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/contacts/update-contact</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/domains/create-domain</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/domains/delete-domain</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/domains/get-domain</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/domains/list-domains</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/domains/verify-domain</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/emails/retrieve-email</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/emails/send-batch-emails</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/emails/send-email</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/errors</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/api-reference/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/api-keys/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/domains/bimi</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/domains/cloudflare</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/domains/dmarc</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/domains/google-domains</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/domains/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/domains/namecheap</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/emails/email-bounces</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/emails/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/emails/send-test-emails</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/webhooks/event-types</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/dashboard/webhooks/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/examples</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/integrations</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/can-i-receive-emails-with-resend</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/can-i-send-newsletters-with-resend</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/how-do-i-add-an-unsubscribe-link-to-my-emails</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/how-do-i-avoid-conflicting-with-my-mx-records</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/how-do-i-avoid-gmails-spam-folder</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/how-do-i-avoid-outlooks-spam-folder</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/how-do-i-ensure-sensitive-data-isnt-stored-on-resend</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/how-do-i-fix-cors-issues</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/how-do-i-maximize-deliverability-for-supabase-auth-emails</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/how-do-i-send-with-an-avatar</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/is-it-better-to-send-emails-from-a-subdomain-or-the-root-domain</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/what-attachment-types-are-not-supported</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/what-if-an-email-says-delivered-but-the-recipient-has-not-received-it</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/what-if-my-domain-is-not-verifying</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/what-is-resend-pricing</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/knowledge-base/why-are-my-open-rates-not-accurate</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/sdks</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/secret</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/security</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-auth0-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-aws-lambda</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-bun</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-cloudflare-workers</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-customer-io-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-deno-deploy</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-django-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-elixir</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-express</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-flask</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-go</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-java</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-laravel</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-laravel-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-liferay-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-nextauth-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-nextjs</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-nodejs</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-nodemailer-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-nuxt</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-phoenix</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-php</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-python</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-rails</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-rails-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-redwoodjs</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-remix</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-retool-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-ruby</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-sinatra</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-supabase-edge-functions</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-supabase-smtp</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-vercel-edge-functions</loc>
+  </url>
+
+  <url>
+    <loc>https://resend.com/docs/send-with-wordpress-smtp</loc>
+  </url>
+</urlset>
